@@ -1,6 +1,6 @@
 [package]
 name = "crabi_test"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2021"
 description = "An experimental Rust library for exploring and experimenting with ABI concepts and cross-language interoperability."
