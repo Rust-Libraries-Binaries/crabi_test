@@ -34,6 +34,9 @@ Distributed under the MIT or Apache 2.0 license.
 ## Author
 Ben Santora bensatlantik@gmail.com
 
+## Donate
+https://bensatlantik.github.io/
+
 
 
 
