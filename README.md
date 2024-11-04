@@ -16,8 +16,7 @@ crabi_test is suitable for:
 Developers interested in systems programming and understanding how Rust can interface with C and other languages. Experiments and educational purposes, offering a foundation to explore the implications of ABI stability or the lack thereof in Rust.
 
 ##Example Code
-```rust 
->>>>>>> 47ae18f (Fixed directory structure)
+```rust
 #[repr(C)]
 pub struct SimpleData {
     pub value: i32,
