@@ -1,9 +1,9 @@
 [package]
 name = "crabi_test"
-version = "0.1.7"
+version = "0.1.8"
 authors = ["Ben Santora <bensatlantik@gmail.com>"]
 edition = "2021"
-description = "An experimental Rust library for exploring and experimenting with ABI concepts and cross-language interoperability."
+description = "An experimental Rust library for exploring and experimenting with ABI concepts and cross-language interoperability. SEE ALSO: crabi_test2 for more advanced features."
 license = "MIT OR Apache-2.0"
 readme = "README.md"
 repository = "https://github.com/bensatlantik/crabi_test"
