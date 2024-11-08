@@ -1,3 +1,7 @@
+## Archived Repository
+
+**This repository was a gift from me to the Rust and open-source community. It is no longer actively maintained and has been archived. Feel free to fork and continue development on your own.**
+
 ## crabi_test
 An Experimental Rust Library for ABI Exploration
 
@@ -34,11 +38,4 @@ pub extern "C" fn modify_simple_data(data: *mut SimpleData) {
 Distributed under the MIT or Apache 2.0 license.
 
 ## Author
-Ben Santora bensatlantik@gmail.com
-
-## Donate
-https://bensatlantik.github.io/
-
-
-
-
+Ben Santora 
