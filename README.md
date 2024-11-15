@@ -10,7 +10,7 @@ An Experimental Rust Library for ABI Exploration
 crabi_test is a Rust library designed to facilitate practical exploration and understanding of Application Binary Interface (ABI) concepts, particularly 
 as they relate to cross-language interoperability and Rust’s Foreign Function Interface (FFI).
 
-SEE ALSO: crabi_test2 for more advanced features
+## SEE ALSO: crabi_test2 for more advanced features - https://github.com/Rust-Libraries-Binaries/crabi_test2
 
 ## Purpose
 The library provides a set of simple, well-documented examples to illustrate how Rust can interact with other languages like C. By using features like #[repr(C)] for predictable memory layouts and extern "C" functions for FFI, crabi_test demonstrates the challenges and considerations involved in ABI compatibility.
